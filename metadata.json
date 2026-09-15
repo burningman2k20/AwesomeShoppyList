@@ -1,0 +1,6 @@
+{
+  "name": "Shopping List",
+  "description": "Smart shopping list with store and department categorization, database item catalog, and running totals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

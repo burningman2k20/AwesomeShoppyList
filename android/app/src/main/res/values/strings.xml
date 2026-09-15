@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="add_item">Add Item</string>
+    <string name="item_catalog">Catalog</string>
+    <string name="running_total">Running Total</string>
+    <string name="remaining">Remaining</string>
+    <string name="empty_list_message">Your shopping list is empty</string>
+    <string name="save_list">Save List</string>
+    <string name="share_list">Share List</string>
+</resources>
